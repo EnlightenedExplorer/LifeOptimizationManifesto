@@ -18,10 +18,10 @@ Get started now! Just access one of the files and click edit!
 ## Our Values
 When contributing to the guide, please keep our values in mind:
 
-Truthfulness: Be honest and accurate in the information you provide. Ensure your sources are reliable and properly cited.
-Inclusiveness: We welcome contributions from everyone, regardless of their background, race, gender, or beliefs. Discrimination and bigotry have no place in our community.
-Respect: Treat others with respect, both in your contributions and in your interactions with other community members.
-Strictly Scientific: Focus on evidence-based information and avoid promoting spiritual, religious, or pseudoscientific beliefs.
-Constructive Feedback: Provide and receive feedback in a constructive manner. Remember that we're all here to learn and grow together.
+* Truthfulness: Be honest and accurate in the information you provide. Ensure your sources are reliable and properly cited.
+* Inclusiveness: We welcome contributions from everyone, regardless of their background, race, gender, or beliefs. Discrimination and bigotry have no place in our community.
+* Respect: Treat others with respect, both in your contributions and in your interactions with other community members.
+* Strictly Scientific: Focus on evidence-based information and avoid promoting spiritual, religious, or pseudoscientific beliefs.
+* Constructive Feedback: Provide and receive feedback in a constructive manner. Remember that we're all here to learn and grow together.
 
 By adhering to these values, we can create a high-quality, inclusive, and reliable resource for life optimization.

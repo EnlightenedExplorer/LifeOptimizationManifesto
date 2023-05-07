@@ -21,8 +21,7 @@ This guide covers a wide range of topics, including:
   - Nothing, for now
 - Productivity
   - Nothing, for now
-- Relationships[
-  ](./relationships.md)
+- Relationships
   - Nothing, for now
 
 This project just started, so we welcome contributions!

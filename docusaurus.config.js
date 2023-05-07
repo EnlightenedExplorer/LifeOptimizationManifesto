@@ -24,7 +24,7 @@ module.exports = {
           path: "book",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/EnlightenedExplorer/LifeOptimizationManifesto/tree/main/book",
+            "https://github.com/EnlightenedExplorer/LifeOptimizationManifesto/blob/main/",
         },
         blog: false,
         theme: {
@@ -63,7 +63,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `Copyright © ${new Date().getFullYear()} Optimal Life Manifesto. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Life Optimization Manifesto. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

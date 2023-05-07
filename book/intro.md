@@ -15,13 +15,14 @@ To ensure the accuracy and quality of our content, everything will be peer-revie
 
 This guide covers a wide range of topics, including:
 
-- [Physical Health](./physical-health.md)
+- Physical Health
   - Nothing, for now.
-- [Mental Health](./mental-health.md)
+- Mental Health
   - Nothing, for now
-- [Productivity](./productivity.md)
+- Productivity
   - Nothing, for now
-- [Relationships](./relationships.md)
+- Relationships[
+  ](./relationships.md)
   - Nothing, for now
 
 This project just started, so we welcome contributions!

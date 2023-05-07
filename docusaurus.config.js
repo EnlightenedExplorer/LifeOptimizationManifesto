@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Optimal Life Manifesto",
+  title: "Life Optimization Manifesto",
   tagline: "For a better life",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",

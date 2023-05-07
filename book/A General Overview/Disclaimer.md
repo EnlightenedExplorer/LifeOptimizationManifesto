@@ -1,0 +1,19 @@
+# Legal Disclaimer
+
+The information, content, and material provided in the **Life Optimization Manifesto** (hereinafter referred to as "the Guide") is for informational and educational purposes only. The Guide is not intended to provide or replace professional medical advice, diagnosis, or treatment.
+
+By accessing, using, or contributing to the Guide, you acknowledge and agree that you are solely responsible for your own actions and decisions, and that the authors, contributors, and maintainers of the Guide (hereinafter collectively referred to as "the Parties") shall not be held liable for any direct, indirect, incidental, consequential, or punitive damages, or any other losses, costs, or expenses of any kind, which may arise, directly or indirectly, through your use of, reliance upon, or contribution to the Guide.
+
+The Parties make no representations or warranties of any kind, express or implied, as to the accuracy, completeness, suitability, or validity of the information contained in the Guide. All information is provided on an "as is" basis, and you accept full responsibility for the use and interpretation of the information provided. The Parties shall not be held liable for any errors, omissions, or delays in the information provided, nor for any actions taken in reliance upon such information.
+
+The Guide may include links to third-party websites or resources, which are provided for your convenience only. The inclusion of any links does not imply any endorsement, affiliation, or sponsorship by the Parties of the linked websites or resources, nor any association with their operators. The Parties have no control over, and assume no responsibility for, the content, accuracy, privacy policies, or practices of any third-party websites or resources. You acknowledge and agree that the Parties shall not be held responsible or liable, directly or indirectly, for any damage or loss caused, or alleged to be caused, by or in connection with your use of, or reliance upon, any content, goods, or services available on or through any such websites or resources.
+
+The Guide may contain contributions from various authors, contributors, and users (hereinafter collectively referred to as "the Contributors"). The opinions and views expressed by the Contributors are solely their own and do not necessarily represent the views, opinions, or positions of the Parties. The Parties disclaim any responsibility or liability for the accuracy, completeness, or reliability of the information provided by the Contributors, and shall not be held liable for any actions taken, directly or indirectly, in reliance upon such information.
+
+You acknowledge and agree that your use of, or reliance upon, the Guide is entirely at your own risk, and you hereby release, indemnify, and hold harmless the Parties from any and all claims, demands, actions, liabilities, damages, losses, costs, and expenses, including without limitation reasonable attorneys' fees, arising out of, or in connection with, your use of, reliance upon, or contribution to the Guide.
+
+This disclaimer is governed by and construed in accordance with the laws of the United States. Any disputes relating to this disclaimer shall be subject to the exclusive jurisdiction of the courts of the United States.
+
+If any provision of this disclaimer is found to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render this disclaimer unenforceable or invalid as a whole, and such provisions shall be deleted without affecting the remaining provisions herein.
+
+The Parties reserve the right to modify this disclaimer at any time, without prior notice, by posting the revised disclaimer on this website. Your continued use of the Guide following the posting of any changes to the disclaimer constitutes your acceptance of such changes.

@@ -28,7 +28,7 @@ This project just started, so we welcome contributions!
 
 ## How to Contribute
 
-We welcome contributions from individuals who share our passion for life optimization! If you'd like to contribute, please access our [Contribution Guide](./Chapter%201%20-%20Overview/Contributing).
+We welcome contributions from individuals who share our passion for life optimization! If you'd like to contribute, please access our [Contribution Guide](/A%20General%20Overview/Contributing).
 
 ## Community
 

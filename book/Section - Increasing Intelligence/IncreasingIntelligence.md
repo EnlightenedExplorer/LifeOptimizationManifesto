@@ -1,4 +1,4 @@
-# Increasing Inteligence
+# Increasing Intelligence
 
 :::caution
 

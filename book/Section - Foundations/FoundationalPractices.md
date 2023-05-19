@@ -30,7 +30,7 @@ Meditation has been practiced for thousands of years and has recently gained sig
 
 ## 4. Sunlight Exposure
 
-Sunlight exposure plays a crucial role in our overall well-being. It's our body's primary source of Vitamin D, which is essential for bone health, immune function, and reducing inflammation. Furthermore, exposure to natural light during the day helps regulate our body's circadian rhythm, improving sleep quality and mood. However, it's important to balance sunlight exposure with skin protection to prevent skin damage. Aim for short, regular periods of sunlight exposure—around 10-30 minutes a day, depending on your skin type and geographic location. Learn more about the benefits of sunlight exposure and how to incorporate it into your daily routine safely [HERE](/Section%20-%20Sunlight%20Exposure/SunlightExposure).
+Sunlight exposure plays a crucial role in our overall well-being. It's our body's primary source of Vitamin D, which is essential for bone health, immune function, and reducing inflammation. Furthermore, exposure to natural light during the day helps regulate our body's circadian rhythm, improving sleep quality and mood. However, it's important to balance sunlight exposure with skin protection to prevent skin damage. Aim for short, regular periods of sunlight exposure—around 10-30 minutes a day, depending on your skin type and geographic location. Learn more about the benefits of sunlight exposure and how to incorporate it into your daily routine safely HERE (To be added).
 
 ## 5. Balanced Diet
 
